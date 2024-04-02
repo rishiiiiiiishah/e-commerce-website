@@ -20,7 +20,7 @@ e.target.classList.toggle('open');
     <div className='navbar'>
     <div className='nav-logo'>
 <img src={logo} alt="" />
-<p>SHOPPER</p>
+<p>RISHIQUE</p>
     </div>
     <img className='nav-dropdown' onClick={dropdown_toggle} src={finaldrop} alt="" />
     <ul ref={menuRef} className="nav-menu">
